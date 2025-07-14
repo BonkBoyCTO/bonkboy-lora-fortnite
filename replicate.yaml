@@ -1,0 +1,3 @@
+image: replicate/cuda
+python_version: "3.10"
+run: "python predict.py"
