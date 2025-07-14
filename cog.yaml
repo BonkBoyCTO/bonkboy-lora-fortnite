@@ -5,8 +5,8 @@ build:
   python_packages:
     - torch
     - torchvision
-    - transformers
     - diffusers
+    - transformers
     - accelerate
     - safetensors
     - xformers
